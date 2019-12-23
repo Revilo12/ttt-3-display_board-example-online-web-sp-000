@@ -9,5 +9,3 @@ def display_board
   puts LINE
   puts ROW
 end
-
-display_board
